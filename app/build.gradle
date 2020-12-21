@@ -1,0 +1,71 @@
+//apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+
+//ext {
+//    bintrayRepo = 'maven'
+//    bintrayName = 'speech-recognizer'
+//
+//    publishedGroupId = 'com.charmi.learning'
+//    libraryName = 'SpeechRecognizer'
+//    artifact = 'speech-recognizer'
+//
+//    libraryDescription = 'A wrapper for speech recognizer on Android'
+//
+//    siteUrl = 'https://github.com/charmisolanki/VoiceSearch'
+//    gitUrl = 'https://github.com/charmisolanki/VoiceSearch.git'
+//
+//    libraryVersion = '0.1.1'
+//
+//    developerId = 'charmi'
+//    developerName = 'charmi solanki'
+//    developerEmail = 'charmisolanki80@gmail.com'
+//
+//    licenseName = 'The Apache Software License, Version 2.0'
+//    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+//    allLicenses = ["Apache-2.0"]
+//}
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+
+    defaultConfig {
+//        applicationId "com.nrai.voicesearchdemo"
+        minSdkVersion 16
+        targetSdkVersion 29
+//        versionCode 1
+//        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        pro {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+}
+
+// Place it at the end of the file
+//apply from: 'https://github.com/charmisolanki/VoiceSearch/installv1.gradle'
+//apply from: 'https://github.com/charmisolanki/VoiceSearch/bintrayv1.gradle'
+
