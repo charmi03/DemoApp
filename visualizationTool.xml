@@ -1,0 +1,9 @@
+<application>
+  <component name="VisualizationTool">
+    <option name="state">
+      <GlobalState>
+        <option name="configurationSetName" value="CUSTOM" />
+      </GlobalState>
+    </option>
+  </component>
+</application>
