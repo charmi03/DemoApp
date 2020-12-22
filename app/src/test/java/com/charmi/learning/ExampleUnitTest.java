@@ -1,4 +1,4 @@
-package com.nrai.voicesearchdemo;
+package com.charmi.learning;
 
 import org.junit.Test;
 

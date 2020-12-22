@@ -1,41 +1,40 @@
 //apply plugin: 'com.android.application'
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
 
-//ext {
-//    bintrayRepo = 'maven'
-//    bintrayName = 'speech-recognizer'
-//
-//    publishedGroupId = 'com.charmi.learning'
-//    libraryName = 'SpeechRecognizer'
-//    artifact = 'speech-recognizer'
-//
-//    libraryDescription = 'A wrapper for speech recognizer on Android'
-//
-//    siteUrl = 'https://github.com/charmisolanki/VoiceSearch'
-//    gitUrl = 'https://github.com/charmisolanki/VoiceSearch.git'
-//
-//    libraryVersion = '0.1.1'
-//
-//    developerId = 'charmi'
-//    developerName = 'charmi solanki'
-//    developerEmail = 'charmisolanki80@gmail.com'
-//
-//    licenseName = 'The Apache Software License, Version 2.0'
-//    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-//    allLicenses = ["Apache-2.0"]
-//}
+ext {
+    bintrayRepo = 'trial' // Repo name in bintray dashboard
+    bintrayName = 'com.charmi.learning' // package name of the bintray repo
+
+    publishedGroupId = 'com.charmi.voicesearch'   // this is the ID we want to see in implementation line
+    libraryName = 'app'     // this is the module name of library
+    artifact = 'voicesearchlibrary'        // this is the artifact we want to see in implementation line
+
+    libraryDescription = 'Test project library for voice search' // description of library
+
+    siteUrl = 'https://github.com/charmisolanki/VoiceSearch'    // git repo url
+    gitUrl = 'https://github.com/charmisolanki/VoiceSearch.git' // git repo vcs url
+
+    libraryVersion = '1.2'      // library version
+
+    developerId = 'charmi'                // This is your bintray username
+    developerName = 'charmi solanki'              // Developer's name
+    developerEmail = 'charmisolanki80@gmail.com'                // Developer's email
+
+    licenseName = 'The Apache Software License, Version 2.0'  // for example, The Apache Software License, Version 2.0
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'   // for example, http://www.apache.org/licenses/LICENSE-2.0.txt
+    allLicenses = ["Apache-2.0"]    // array of licenses, for example, ["Apache-2.0"]
+}
 
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-//        applicationId "com.nrai.voicesearchdemo"
+//        applicationId "com.charmi.learning"
         minSdkVersion 16
         targetSdkVersion 29
-//        versionCode 1
-//        versionName "1.0"
+        versionCode 1
+        versionName "1.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -65,7 +64,9 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 }
 
+//apply from: 'publish.gradle'
 // Place it at the end of the file
-//apply from: 'https://github.com/charmisolanki/VoiceSearch/installv1.gradle'
-//apply from: 'https://github.com/charmisolanki/VoiceSearch/bintrayv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'
+
 
