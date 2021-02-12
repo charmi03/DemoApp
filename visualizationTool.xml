@@ -34,7 +34,7 @@
             </CustomConfigurationAttribute>
           </list>
         </option>
-        <option name="visible" value="true" />
+        <option name="scale" value="0.1" />
       </GlobalState>
     </option>
   </component>
