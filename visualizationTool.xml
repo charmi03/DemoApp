@@ -34,6 +34,7 @@
             </CustomConfigurationAttribute>
           </list>
         </option>
+        <option name="visible" value="true" />
       </GlobalState>
     </option>
   </component>
