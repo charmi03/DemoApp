@@ -18,6 +18,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="elitesdk" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:googlecodelabs/android-databinding.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
