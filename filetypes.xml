@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Home" type="Dart" />
+      <mapping pattern="home" type="Dart" />
+      <mapping ext="webp" type="Image" />
+      <mapping pattern="learning" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="Learning" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="XML" />
+    </extensionMap>
+  </component>
+</application>
