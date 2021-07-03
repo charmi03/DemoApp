@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">VoiceSearchDemo</string>
+    <string name="app_name">DemoApplication</string>
+    <string name="current_location">Current Location</string>
+    <string name="restaurant_location">Select Restaurant</string>
 </resources>
