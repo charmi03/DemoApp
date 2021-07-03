@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvSource"
+        android:padding="8dp"
+        android:layout_margin="4dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/ic_gps_find"
+        android:hint="@string/current_location" />
+
+
+    <TextView
+        android:id="@+id/tvDestination"
+        android:padding="8dp"
+        android:layout_margin="4dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/ic_restaurant"
+        android:hint="@string/restaurant_location" />
+
+    <Button
+        android:id="@+id/btnGetRoute"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:background="@color/colorPrimaryDark"
+        android:drawableEnd="@drawable/ic_direction"
+        android:drawableTint="@android:color/white"
+        android:text="Find Route"
+        android:textColor="@android:color/white" />
+
+
+    <com.here.sdk.mapviewlite.MapViewLite
+        android:id="@+id/map_view"
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>
