@@ -1,0 +1,9 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/bob/res/layout/fragment_dashboard.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+</application>
