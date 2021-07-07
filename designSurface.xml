@@ -19,6 +19,7 @@
         <entry key="app/src/main/res/layout/shimmer_exclusive_vouchers_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_partner_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_product_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/toolbar_home_activity.xml" value="0.1" />
         <entry key="app/src/sbi/res/layout/fragment_dashboard.xml" value="0.18" />
         <entry key="app/src/sbi/res/layout/fragment_dashboard_two.xml" value="0.1" />
       </map>
