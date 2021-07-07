@@ -26,9 +26,11 @@
         <entry key="app/src/main/res/layout/fragment_redeem_points.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_vouchers.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_popular_category.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/item_popular_category_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_products_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_exclusive_vouchers_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_partner_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/shimmer_popular_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_product_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/toolbar_home_activity.xml" value="0.1" />
         <entry key="app/src/sbi/res/layout/fragment_dashboard.xml" value="0.18" />
