@@ -7,17 +7,21 @@
         <entry key="app/src/bob/res/layout/item_redemption_layout.xml" value="0.1921875" />
         <entry key="app/src/indb/res/layout/fragment_dashboard.xml" value="0.12771739130434784" />
         <entry key="app/src/main/res/drawable/bg_circular_text.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/bg_points.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/bg_round_corner_home.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/category_selector.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/circular_background.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/elite_bg_circular_icon.xml" value="0.1638888888888889" />
         <entry key="app/src/main/res/drawable/home_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_category_selected.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_category_unselected.xml" value="0.18425925925925926" />
+        <entry key="app/src/main/res/drawable/ic_point_large.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_redeem_selected.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_user_placeholder.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/partner_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/redeem_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_merchandise.xml" value="0.12771739130434784" />
         <entry key="app/src/main/res/layout/adapter_home_deals.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_account.xml" value="0.12771739130434784" />
         <entry key="app/src/main/res/layout/fragment_buy_voucher_new.xml" value="0.1" />
@@ -33,16 +37,18 @@
         <entry key="app/src/main/res/layout/fragment_merchandise_home.xml" value="0.12771739130434784" />
         <entry key="app/src/main/res/layout/fragment_recharge.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeem.xml" value="0.1921875" />
-        <entry key="app/src/main/res/layout/fragment_redeem_history.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_redeem_history.xml" value="0.12771739130434784" />
         <entry key="app/src/main/res/layout/fragment_redeem_history_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeem_points.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeemption_history.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_vouchers.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/item_earned_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_popular_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_popular_category_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_products_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_redeem_history_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_redeem_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/placeholder_transaction_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/shimmer_exclusive_vouchers_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_partner_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_popular_category.xml" value="0.1921875" />
