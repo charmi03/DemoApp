@@ -15,8 +15,11 @@
         <entry key="app/src/main/res/drawable/home_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_category_selected.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_category_unselected.xml" value="0.18425925925925926" />
-        <entry key="app/src/main/res/drawable/ic_coins_small.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable/ic_coin_small.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_coins_large.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_coins_small.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_point_large.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_points_small.xml" value="0.20277777777777778" />
         <entry key="app/src/main/res/drawable/ic_redeem_selected.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_user_placeholder.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/partner_selector.xml" value="0.2041025641025641" />
@@ -44,6 +47,7 @@
         <entry key="app/src/main/res/layout/fragment_redeemption_history.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_vouchers.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_earned_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_exclusive_voucher_grid.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_popular_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_popular_category_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_products_home.xml" value="0.1921875" />
@@ -55,7 +59,7 @@
         <entry key="app/src/main/res/layout/shimmer_partner_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_popular_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_product_home.xml" value="0.1921875" />
-        <entry key="app/src/main/res/layout/toolbar_home_activity.xml" value="0.12771739130434784" />
+        <entry key="app/src/main/res/layout/toolbar_home_activity.xml" value="0.25" />
         <entry key="app/src/sbi/res/layout/fragment_dashboard.xml" value="0.18" />
         <entry key="app/src/sbi/res/layout/fragment_dashboard_two.xml" value="0.1" />
       </map>
