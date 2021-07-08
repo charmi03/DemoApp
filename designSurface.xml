@@ -49,6 +49,7 @@
         <entry key="app/src/main/res/layout/item_redeem_history_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_redeem_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/placeholder_transaction_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/shimmer_earned_fragment.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_exclusive_vouchers_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_partner_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_popular_category.xml" value="0.1921875" />
