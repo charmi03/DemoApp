@@ -46,6 +46,7 @@
         <entry key="app/src/main/res/layout/fragment_redeem_points.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeemption_history.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_vouchers.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/item_categories_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_earned_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_exclusive_voucher_grid.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_popular_category.xml" value="0.1921875" />
