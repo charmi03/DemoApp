@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../layout/custom_preview.xml" value="0.18425925925925926" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/bob/res/layout/fragment_dashboard.xml" value="0.21" />
         <entry key="app/src/bob/res/layout/item_redemption_layout.xml" value="0.1921875" />
         <entry key="app/src/indb/res/layout/fragment_dashboard.xml" value="0.12771739130434784" />
@@ -36,6 +36,8 @@
         <entry key="app/src/main/res/layout/item_popular_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_popular_category_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_products_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/item_redeem_history_layout.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_redeem_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/shimmer_exclusive_vouchers_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_partner_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_popular_category.xml" value="0.1921875" />
