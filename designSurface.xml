@@ -15,6 +15,7 @@
         <entry key="app/src/main/res/drawable/home_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_category_selected.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_category_unselected.xml" value="0.18425925925925926" />
+        <entry key="app/src/main/res/drawable/ic_coins_small.xml" value="0.1638888888888889" />
         <entry key="app/src/main/res/drawable/ic_point_large.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_redeem_selected.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_user_placeholder.xml" value="0.20729166666666668" />
@@ -37,7 +38,7 @@
         <entry key="app/src/main/res/layout/fragment_merchandise_home.xml" value="0.12771739130434784" />
         <entry key="app/src/main/res/layout/fragment_recharge.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeem.xml" value="0.1921875" />
-        <entry key="app/src/main/res/layout/fragment_redeem_history.xml" value="0.12771739130434784" />
+        <entry key="app/src/main/res/layout/fragment_redeem_history.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeem_history_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeem_points.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeemption_history.xml" value="0.1921875" />
