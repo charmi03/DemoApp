@@ -18,13 +18,18 @@
         <entry key="app/src/main/res/layout/fragment_buy_voucher_new.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_categories.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment_earned_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_earned.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_earned_coins.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_earned_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_earned_point.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_exclusive_products.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_giftcard_home.xml" value="0.12771739130434784" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_merchandise_home.xml" value="0.12771739130434784" />
         <entry key="app/src/main/res/layout/fragment_recharge.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeem.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_redeem_history.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_redeem_history_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeem_points.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeemption_history.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_vouchers.xml" value="0.1921875" />
