@@ -69,6 +69,7 @@
         <entry key="app/src/main/res/layout/shimmer_partner_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_popular_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_product_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/sort_bottomsheet_layout.xml" value="0.17685185185185184" />
         <entry key="app/src/main/res/layout/toolbar_home_activity.xml" value="0.22" />
         <entry key="app/src/sbi/res/layout/fragment_dashboard.xml" value="0.18" />
         <entry key="app/src/sbi/res/layout/fragment_dashboard_two.xml" value="0.1" />
