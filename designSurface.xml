@@ -58,6 +58,7 @@
         <entry key="app/src/main/res/layout/item_products_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_redeem_history_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_redeem_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_bottom_sheet_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/my_fragment.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/placeholder_transaction_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/shimmer_earned_fragment.xml" value="0.1921875" />
