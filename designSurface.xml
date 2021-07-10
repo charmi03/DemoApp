@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/bob/res/layout/fragment_dashboard.xml" value="0.21" />
+        <entry key="app/src/bob/res/layout/fragment_dashboard_elite_sdk.xml" value="0.1921875" />
         <entry key="app/src/bob/res/layout/item_redemption_layout.xml" value="0.1921875" />
         <entry key="app/src/boistar/res/layout/fragment_dashboard.xml" value="0.1" />
         <entry key="app/src/indb/res/layout/fragment_dashboard.xml" value="0.12771739130434784" />
@@ -35,8 +36,10 @@
         <entry key="app/src/main/res/layout/activity_merchandise.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_partners.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_payment.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/activity_temp.xml" value="0.1" />
         <entry key="app/src/main/res/layout/adapter_home_deals.xml" value="0.1" />
         <entry key="app/src/main/res/layout/common_toolbar.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/custom_homepage_tab.xml" value="0.16018518518518518" />
         <entry key="app/src/main/res/layout/dialog_calendar_view.xml" value="0.18611111111111112" />
         <entry key="app/src/main/res/layout/dialog_exclusive_voucher_detail.xml" value="0.2" />
         <entry key="app/src/main/res/layout/fragment_account.xml" value="0.1921875" />
