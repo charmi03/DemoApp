@@ -27,11 +27,13 @@
         <entry key="app/src/main/res/drawable/ic_user_placeholder.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/partner_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/redeem_selector.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/layout/activity_gift_card.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_hotel_base.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17794253938832252" />
         <entry key="app/src/main/res/layout/activity_merchandise.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_partners.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/activity_payment.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/adapter_home_deals.xml" value="0.1" />
         <entry key="app/src/main/res/layout/common_toolbar.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/dialog_calendar_view.xml" value="0.18611111111111112" />
@@ -49,6 +51,7 @@
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/fragment_hotel_detail.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/fragment_merchandise_home.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/fragment_otp_bottomsheet_dialog.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_recharge.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_recharge_plan.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeem.xml" value="0.1921875" />
