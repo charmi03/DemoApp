@@ -27,6 +27,7 @@
         <entry key="app/src/main/res/drawable/ic_user_placeholder.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/partner_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/redeem_selector.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_gift_card.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_hotel_base.xml" value="0.1" />
