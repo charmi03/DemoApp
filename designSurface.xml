@@ -65,7 +65,9 @@
         <entry key="app/src/main/res/layout/fragment_earned_point.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_elite_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_account.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_earned_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_redeem_history_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_exclusive_products.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_giftcard_home.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.18888888888888888" />
