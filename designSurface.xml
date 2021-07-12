@@ -29,6 +29,7 @@
         <entry key="app/src/main/res/drawable/partner_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/redeem_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_elite_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_gift_card.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home_elite_sdk.xml" value="0.1921875" />
@@ -39,12 +40,17 @@
         <entry key="app/src/main/res/layout/activity_payment.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_temp.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/adapter_home_deals.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/cardview_single_text_item.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/cardview_suggested_recharges.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/common_toolbar.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/confirm_detail_layout.xml" value="0.18055555555555555" />
         <entry key="app/src/main/res/layout/custom_homepage_tab.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/custom_spinner_layout.xml" value="0.18055555555555555" />
+        <entry key="app/src/main/res/layout/detail_placeholder_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/dialog_calendar_view.xml" value="0.18611111111111112" />
         <entry key="app/src/main/res/layout/dialog_exclusive_voucher_detail.xml" value="0.2" />
         <entry key="app/src/main/res/layout/fragment_account.xml" value="0.1921875" />
-        <entry key="app/src/main/res/layout/fragment_buy_voucher_new.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_buy_voucher_new.xml" value="0.18055555555555555" />
         <entry key="app/src/main/res/layout/fragment_categories.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_earned.xml" value="0.1921875" />
