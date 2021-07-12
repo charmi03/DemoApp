@@ -52,6 +52,7 @@
         <entry key="app/src/main/res/layout/dialog_calendar_view.xml" value="0.18611111111111112" />
         <entry key="app/src/main/res/layout/dialog_exclusive_voucher_detail.xml" value="0.2" />
         <entry key="app/src/main/res/layout/egv_detail_placeholder.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_custom_homepage_tab.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_account.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_buy_voucher_new.xml" value="0.18055555555555555" />
         <entry key="app/src/main/res/layout/fragment_categories.xml" value="0.1921875" />
@@ -62,6 +63,7 @@
         <entry key="app/src/main/res/layout/fragment_earned_point.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_elite_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_account.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_exclusive_products.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_giftcard_home.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.18888888888888888" />
