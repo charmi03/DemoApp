@@ -5,6 +5,7 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/bob/res/layout/fragment_dashboard.xml" value="0.21" />
         <entry key="app/src/bob/res/layout/fragment_dashboard_elite_sdk.xml" value="0.1921875" />
+        <entry key="app/src/bob/res/layout/fragment_elite_sdk_dashboard.xml" value="0.18055555555555555" />
         <entry key="app/src/bob/res/layout/item_redemption_layout.xml" value="0.1921875" />
         <entry key="app/src/boistar/res/layout/fragment_dashboard.xml" value="0.1" />
         <entry key="app/src/indb/res/layout/fragment_dashboard.xml" value="0.12771739130434784" />
@@ -30,6 +31,7 @@
         <entry key="app/src/main/res/drawable/redeem_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_elite_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/activity_elite_sdk_gift_card.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_gift_card.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home_elite_sdk.xml" value="0.1921875" />
@@ -59,6 +61,7 @@
         <entry key="app/src/main/res/layout/fragment_earned_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_earned_point.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_elite_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_account.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_exclusive_products.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_giftcard_home.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.18888888888888888" />
@@ -86,17 +89,24 @@
         <entry key="app/src/main/res/layout/item_products_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_redeem_history_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_redeem_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_redemption_layout.xml" value="0.18055555555555555" />
+        <entry key="app/src/main/res/layout/item_search_product.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/item_store_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_bottom_sheet_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_empty_view.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/layout_info_dialog.xml" value="0.18055555555555555" />
         <entry key="app/src/main/res/layout/my_fragment.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/placeholder_transaction_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/shimmer_earned_fragment.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/shimmer_elite_sdk_profile_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_exclusive_vouchers_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_partner_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_popular_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_product_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/sort_bottomsheet_layout.xml" value="0.17685185185185184" />
+        <entry key="app/src/main/res/layout/store_placeholder_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/toolbar_home_activity.xml" value="0.22" />
+        <entry key="app/src/main/res/menu/edit_option.xml" value="0.18055555555555555" />
         <entry key="app/src/sbi/res/layout/fragment_dashboard.xml" value="0.18" />
         <entry key="app/src/sbi/res/layout/fragment_dashboard_two.xml" value="0.1" />
       </map>
