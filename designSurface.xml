@@ -33,6 +33,7 @@
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_elite_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_gift_card.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/activity_elite_sdk_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_gift_card.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home_elite_sdk.xml" value="0.1921875" />
