@@ -5,7 +5,7 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/bob/res/layout/fragment_dashboard.xml" value="0.21" />
         <entry key="app/src/bob/res/layout/fragment_dashboard_elite_sdk.xml" value="0.1921875" />
-        <entry key="app/src/bob/res/layout/fragment_elite_sdk_dashboard.xml" value="0.18055555555555555" />
+        <entry key="app/src/bob/res/layout/fragment_elite_sdk_dashboard.xml" value="0.1921875" />
         <entry key="app/src/bob/res/layout/item_redemption_layout.xml" value="0.1921875" />
         <entry key="app/src/boistar/res/layout/fragment_dashboard.xml" value="0.1" />
         <entry key="app/src/indb/res/layout/fragment_dashboard.xml" value="0.12771739130434784" />
@@ -23,6 +23,7 @@
         <entry key="app/src/main/res/drawable/ic_coin_small.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_coins_large.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_coins_small.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_search.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_partners_selected.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_point_large.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_points_small.xml" value="0.20277777777777778" />
@@ -30,6 +31,7 @@
         <entry key="app/src/main/res/drawable/ic_user_placeholder.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/partner_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/redeem_selector.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ripple_img.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_elite_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_gift_card.xml" value="0.1921875" />
@@ -69,6 +71,7 @@
         <entry key="app/src/main/res/layout/fragment_elite_sdk_earned_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_redeem_history_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_vouchers.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_exclusive_products.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_giftcard_home.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.18888888888888888" />
@@ -85,6 +88,7 @@
         <entry key="app/src/main/res/layout/fragment_redeem_history_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeem_points.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_redeemption_history.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_search_product.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_shopping_cart.xml" value="0.17685185185185184" />
         <entry key="app/src/main/res/layout/fragment_vouchers.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/hotel_toolbar.xml" value="0.1" />
