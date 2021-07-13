@@ -75,6 +75,7 @@
         <entry key="app/src/main/res/layout/fragment_home_elite_sdk.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_hotel_detail.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/fragment_merchandise_home.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/fragment_offers_list.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_otp_bottomsheet_dialog.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_payment.xml" value="0.18055555555555555" />
         <entry key="app/src/main/res/layout/fragment_recharge.xml" value="0.1921875" />
