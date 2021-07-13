@@ -55,6 +55,7 @@
         <entry key="app/src/main/res/layout/dialog_exclusive_voucher_detail.xml" value="0.2" />
         <entry key="app/src/main/res/layout/egv_detail_placeholder.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_custom_homepage_tab.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_dialog_exclusive_voucher_detail.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_account.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_buy_voucher_new.xml" value="0.18055555555555555" />
         <entry key="app/src/main/res/layout/fragment_categories.xml" value="0.1921875" />
