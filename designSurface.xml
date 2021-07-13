@@ -9,6 +9,7 @@
         <entry key="app/src/bob/res/layout/item_redemption_layout.xml" value="0.1921875" />
         <entry key="app/src/boistar/res/layout/fragment_dashboard.xml" value="0.1" />
         <entry key="app/src/indb/res/layout/fragment_dashboard.xml" value="0.12771739130434784" />
+        <entry key="app/src/main/res/drawable/bg_cart_quantity.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/bg_circular_text.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/bg_editext_round_shape.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/bg_points.xml" value="0.20729166666666668" />
