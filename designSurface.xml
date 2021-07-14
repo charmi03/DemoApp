@@ -18,6 +18,7 @@
         <entry key="app/src/main/res/drawable/category_selector.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/circular_background.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_bg_circular_icon.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable/elite_sdk_account_selector.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/home_selector.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_category_selected.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_category_unselected.xml" value="0.18425925925925926" />
