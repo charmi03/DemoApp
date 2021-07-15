@@ -37,7 +37,7 @@
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_elite_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_gift_card.xml" value="0.1921875" />
-        <entry key="app/src/main/res/layout/activity_elite_sdk_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_merchandise.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_gift_card.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1921875" />
@@ -76,7 +76,9 @@
         <entry key="app/src/main/res/layout/fragment_elite_sdk_account.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_earned_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_redeem.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_redeem_history_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_redeem_points.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_sale.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_vouchers.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_exclusive_products.xml" value="0.1921875" />
