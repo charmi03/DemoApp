@@ -64,6 +64,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_products_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_sales_product.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_web_view_fragment.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_account.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_buy_voucher_new.xml" value="0.18055555555555555" />
         <entry key="app/src/main/res/layout/fragment_categories.xml" value="0.1921875" />
