@@ -6,8 +6,13 @@
           <option name="url" value="http://tfs.loylty.com" />
           <option name="userName" value="charmis" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tfs.loylty.com/Spark/_git/L42" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
