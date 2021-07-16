@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_elite_sdk_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/activity_mpin_authentication.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+</application>
