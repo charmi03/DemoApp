@@ -4,6 +4,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_home.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_infletor.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_overview.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_merchandise.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1921875" />
