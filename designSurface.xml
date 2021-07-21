@@ -15,11 +15,12 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_mpin_authentication.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1921875" />
-        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.14247104247104247" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_toolbar_home_activity.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_product_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.1921875" />
+        <entry key="app/src/union/res/layout/activity_splash.xml" value="0.18425925925925926" />
       </map>
     </option>
   </component>
