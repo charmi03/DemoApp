@@ -25,6 +25,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_redeem_history_layout.xml" value="0.33" />
         <entry key="app/src/main/res/layout/elite_sdk_toolbar_home_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_account_number_tab.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_product_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.18923076923076923" />
