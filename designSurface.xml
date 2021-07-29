@@ -32,6 +32,7 @@
         <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/item_offer_near_by_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_offer_near_by_linear.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/layout_bottom_sheet_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.1921875" />
         <entry key="app/src/union/res/drawable/actionbar_logo.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/ic_launcher.xml" value="0.20729166666666668" />
