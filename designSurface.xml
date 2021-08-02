@@ -20,12 +20,13 @@
         <entry key="app/src/main/res/layout/activity_elite_sdk_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_merchandise.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.18923076923076923" />
-        <entry key="app/src/main/res/layout/activity_hotel_base.xml" value="0.16018518518518518" />
+        <entry key="app/src/main/res/layout/activity_hotel_base.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_member.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/activity_mpin_authentication.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/bottomsheet_hotel_search.xml" value="0.1" />
         <entry key="app/src/main/res/layout/common_toolbar.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
