@@ -10,10 +10,18 @@
         <entry key="app/src/boi/res/drawable/elite_sdk_actionbar_logo.xml" value="0.20729166666666668" />
         <entry key="app/src/boistar/res/drawable/actionbar_logo.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/about_us_selector.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/bg_editext_round_shape.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/discount_rounded_corner.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/elite_sdk_actionbar_logo.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/elite_sdk_dotted_divider.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_adult.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_children.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_downarrow.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_home.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_infletor.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_overview.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_remove.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/loader.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_gift_card.xml" value="0.1921875" />
@@ -27,6 +35,8 @@
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/bottomsheet_hotel_search.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/cardview_add_hotel_room.xml" value="0.16018518518518518" />
+        <entry key="app/src/main/res/layout/cardview_hotel_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/common_toolbar.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
@@ -35,6 +45,7 @@
         <entry key="app/src/main/res/layout/fragment_account_number_tab.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_product_category.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_hotel_cancellation_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/hotel_toolbar.xml" value="0.1" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.1921875" />
