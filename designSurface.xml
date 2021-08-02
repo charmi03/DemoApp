@@ -59,7 +59,7 @@
         <entry key="app/src/main/res/layout/fragment_bus_home.xml" value="0.17685185185185184" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_product_category.xml" value="0.1921875" />
-        <entry key="app/src/main/res/layout/fragment_flight_city_list.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/fragment_flight_city_list.xml" value="0.19228764981761334" />
         <entry key="app/src/main/res/layout/fragment_flight_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_flight_tab.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_hotel_cancellation_dialog.xml" value="0.1" />
@@ -91,6 +91,7 @@
         <entry key="app/src/union/res/drawable/ic_launcher.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/layout/activity_splash.xml" value="0.18425925925925926" />
         <entry key="app/src/union/res/layout/elite_sdk_item_redemption_layout.xml" value="0.1921875" />
+        <entry key="app/src/union/res/layout/elite_sdk_row_shimmer_city_layout.xml" value="0.1921875" />
       </map>
     </option>
   </component>
