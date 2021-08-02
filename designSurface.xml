@@ -20,6 +20,7 @@
         <entry key="app/src/main/res/layout/activity_elite_sdk_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_merchandise.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.18923076923076923" />
+        <entry key="app/src/main/res/layout/activity_hotel_base.xml" value="0.16018518518518518" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_member.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/activity_mpin_authentication.xml" value="0.1921875" />
@@ -34,6 +35,7 @@
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_product_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.18923076923076923" />
+        <entry key="app/src/main/res/layout/hotel_toolbar.xml" value="0.1" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.1921875" />
         <entry key="app/src/union/res/drawable/actionbar_logo.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/elite_sdk_actionbar_logo.xml" value="1.0" />
