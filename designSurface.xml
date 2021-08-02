@@ -65,6 +65,8 @@
         <entry key="app/src/main/res/layout/hotel_destination_row.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_detail_imageview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_guest_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/hotel_mapview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/hotel_select_room_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_toolbar.xml" value="0.1" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.1921875" />
         <entry key="app/src/union/res/drawable/actionbar_logo.xml" value="0.20729166666666668" />
