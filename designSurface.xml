@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../layout/custom_preview.xml" value="0.2203125" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.2169230769230769" />
         <entry key="app/src/bob/res/drawable/ic_elite_sdk_charity.xml" value="0.19722222222222222" />
         <entry key="app/src/bob/res/drawable/ic_elite_sdk_egv.xml" value="0.19722222222222222" />
         <entry key="app/src/bob/res/layout/elite_sdk_item_redemption_layout.xml" value="0.1921875" />
@@ -20,6 +20,7 @@
         <entry key="app/src/main/res/drawable/ic_check.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_children.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_date.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_draw.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_downarrow.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_home.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_infletor.xml" value="0.2041025641025641" />
@@ -44,6 +45,8 @@
         <entry key="app/src/main/res/layout/cardview_add_hotel_room.xml" value="0.16018518518518518" />
         <entry key="app/src/main/res/layout/cardview_hotel_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/common_toolbar.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_custom_spinner_layout.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_dialog_calendar_view.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_redeem_history_layout.xml" value="0.33" />
@@ -67,7 +70,11 @@
         <entry key="app/src/main/res/layout/hotel_guest_details.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_mapview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_select_room_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/hotel_select_room_row.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_toolbar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/shimmer_hotel_destination_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/shimmer_hotel_list.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/edit_option.xml" value="0.1921875" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.1921875" />
         <entry key="app/src/union/res/drawable/actionbar_logo.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/elite_sdk_actionbar_logo.xml" value="1.0" />
