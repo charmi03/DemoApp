@@ -12,6 +12,7 @@
         <entry key="app/src/main/res/drawable/about_us_selector.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/all_flights_gradient.xml" value="0.19907407407407407" />
         <entry key="app/src/main/res/drawable/bg_editext_round_shape.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/bg_elite_sdk_edittext_traveller_details.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/bg_spinner.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/button_background.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/discount_rounded_corner.xml" value="0.2041025641025641" />
@@ -64,9 +65,11 @@
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_departureview_flight.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_dropdown.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_filter_airline.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_filter_stop.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_itinerary_traveller.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_minifare_rule.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_reviewflight_return_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_shimmer_city_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_view_checkin.xml" value="0.1921875" />
@@ -75,11 +78,13 @@
         <entry key="app/src/main/res/layout/elite_sdk_row_view_route_info.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_view_travel_information.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_toolbar_home_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/elite_sdk_traveller_details_spinner_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_account_number_tab.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/fragment_bus_home.xml" value="0.17685185185185184" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_itinerary.xml" value="0.3626609442060086" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_product_category.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_traveller_edit.xml" value="0.19228764981761334" />
         <entry key="app/src/main/res/layout/fragment_flight_city_list.xml" value="0.19228764981761334" />
         <entry key="app/src/main/res/layout/fragment_flight_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_flight_tab.xml" value="0.1921875" />
