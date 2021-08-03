@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../layout/custom_preview.xml" value="0.2169230769230769" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/bob/res/drawable/ic_elite_sdk_charity.xml" value="0.19722222222222222" />
         <entry key="app/src/bob/res/drawable/ic_elite_sdk_egv.xml" value="0.19722222222222222" />
         <entry key="app/src/bob/res/layout/elite_sdk_item_redemption_layout.xml" value="0.1921875" />
@@ -53,7 +53,10 @@
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_redeem_history_layout.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/elite_sdk_row_filter_stop.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/layout/elite_sdk_layout_empty.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_layout_empty_view.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_filter_airline.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_filter_stop.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_shimmer_city_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_toolbar_home_activity.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_account_number_tab.xml" value="0.18923076923076923" />
@@ -80,6 +83,7 @@
         <entry key="app/src/main/res/layout/hotel_select_room_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_select_room_row.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_toolbar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_empty.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_reviewflight_return_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_shimmer_city_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_hotel_destination_list.xml" value="0.1" />
@@ -90,6 +94,7 @@
         <entry key="app/src/union/res/drawable/elite_sdk_actionbar_logo.xml" value="1.0" />
         <entry key="app/src/union/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/ic_elite_sdk_charity.xml" value="0.1" />
+        <entry key="app/src/union/res/drawable/ic_elite_sdk_no_airline.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/ic_launcher.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/layout/activity_splash.xml" value="0.18425925925925926" />
         <entry key="app/src/union/res/layout/elite_sdk_item_redemption_layout.xml" value="0.1921875" />
