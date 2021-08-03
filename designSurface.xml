@@ -28,6 +28,7 @@
         <entry key="app/src/main/res/drawable/elite_sdk_ic_group.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_vertical.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/elite_sdk_selector_capsule_shape.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/flight_checkbox_selector.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_adult.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_booked.xml" value="0.1" />
@@ -58,6 +59,7 @@
         <entry key="app/src/main/res/drawable/shadow_gradient.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/activity_elite_sdk_bus.xml" value="1.0" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_gift_card.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_merchandise.xml" value="0.1921875" />
