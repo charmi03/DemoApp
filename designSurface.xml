@@ -18,6 +18,7 @@
         <entry key="app/src/main/res/drawable/button_background.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/discount_rounded_corner.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/elite_sdk_actionbar_logo.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/elite_sdk_bg_rectangle.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_dotted_divider.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_adult.xml" value="0.2041025641025641" />
@@ -60,6 +61,8 @@
         <entry key="app/src/main/res/layout/elite_sdk_add_user_details_popup.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_custom_spinner_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_calendar_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/elite_sdk_dialog_class_list.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_dialog_passenger_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_redeem_history_layout.xml" value="0.33" />
@@ -71,6 +74,8 @@
         <entry key="app/src/main/res/layout/elite_sdk_row_filter_stop.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_itinerary_traveller.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_minifare_rule.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_returnway_domestic_list.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_returnway_international_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_row_reviewflight_return_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_shimmer_city_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_singleway_domestic_list.xml" value="0.1921875" />
