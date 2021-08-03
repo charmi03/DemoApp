@@ -23,9 +23,10 @@
         <entry key="app/src/main/res/drawable/elite_sdk_dotted_divider.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_downside_rounded_corner.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_bag.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/elite_sdk_ic_group.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_vertical.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
-        <entry key="app/src/main/res/drawable/flight_checkbox_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/flight_checkbox_selector.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_adult.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_check.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_children.xml" value="0.2041025641025641" />
@@ -108,12 +109,14 @@
         <entry key="app/src/main/res/layout/fragment_flight_cancel_order_placeholder.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_flight_city_list.xml" value="0.19228764981761334" />
         <entry key="app/src/main/res/layout/fragment_flight_details_listing.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/fragment_flight_filter.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_flight_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_flight_tab.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_hotel_cancellation_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_hotel_detail.xml" value="0.3132530120481928" />
         <entry key="app/src/main/res/layout/fragment_hotel_list.xml" value="1.0" />
         <entry key="app/src/main/res/layout/fragment_hotel_search.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_review_flight.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/hotel_amenities.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_amenities_category.xml" value="0.1" />
@@ -128,6 +131,10 @@
         <entry key="app/src/main/res/layout/hotel_select_room_row.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_toolbar.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_empty.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/row_all_flights.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_cancel_flight_booking.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_departureview_flight.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_flight_cabin_list.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_reviewflight_return_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_shimmer_city_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_view_route_info.xml" value="0.1921875" />
