@@ -17,16 +17,23 @@
         <entry key="app/src/main/res/drawable/discount_rounded_corner.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/elite_sdk_actionbar_logo.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_dotted_divider.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_adult.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_check.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_children.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_date.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_draw.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_arrow_right.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_backward_dotted.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_class.xml" value="0.19907407407407407" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_depart.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_downarrow.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_forward_dot.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_home.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_infletor.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_no_airline.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_overview.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_time.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_ways.xml" value="0.19907407407407407" />
         <entry key="app/src/main/res/drawable/ic_passenger.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_remove.xml" value="0.2041025641025641" />
@@ -48,6 +55,7 @@
         <entry key="app/src/main/res/layout/cardview_add_hotel_room.xml" value="0.16018518518518518" />
         <entry key="app/src/main/res/layout/cardview_hotel_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/common_toolbar.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_add_user_details_popup.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_custom_spinner_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_calendar_view.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
@@ -55,13 +63,22 @@
         <entry key="app/src/main/res/layout/elite_sdk_item_redeem_history_layout.xml" value="0.33" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty_view.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_departureview_flight.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_filter_airline.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_filter_stop.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_itinerary_traveller.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_reviewflight_return_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_shimmer_city_layout.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_view_checkin.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_view_fares.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_view_overlay.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_view_route_info.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_view_travel_information.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_toolbar_home_activity.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_account_number_tab.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/fragment_bus_home.xml" value="0.17685185185185184" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_itinerary.xml" value="0.3626609442060086" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_product_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_flight_city_list.xml" value="0.19228764981761334" />
         <entry key="app/src/main/res/layout/fragment_flight_home.xml" value="0.1921875" />
@@ -86,6 +103,7 @@
         <entry key="app/src/main/res/layout/layout_empty.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_reviewflight_return_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_shimmer_city_layout.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/row_view_route_info.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_hotel_destination_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/shimmer_hotel_list.xml" value="0.1" />
         <entry key="app/src/main/res/menu/edit_option.xml" value="0.1921875" />
@@ -93,8 +111,13 @@
         <entry key="app/src/union/res/drawable/actionbar_logo.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/elite_sdk_actionbar_logo.xml" value="1.0" />
         <entry key="app/src/union/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
+        <entry key="app/src/union/res/drawable/ic_elite_sdk_arrow_right.xml" value="0.20729166666666668" />
+        <entry key="app/src/union/res/drawable/ic_elite_sdk_backward_dotted.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/ic_elite_sdk_charity.xml" value="0.1" />
+        <entry key="app/src/union/res/drawable/ic_elite_sdk_depart.xml" value="0.20729166666666668" />
+        <entry key="app/src/union/res/drawable/ic_elite_sdk_forward_dot.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/ic_elite_sdk_no_airline.xml" value="0.20729166666666668" />
+        <entry key="app/src/union/res/drawable/ic_elite_sdk_time.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/ic_launcher.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/layout/activity_splash.xml" value="0.18425925925925926" />
         <entry key="app/src/union/res/layout/elite_sdk_item_redemption_layout.xml" value="0.1921875" />
