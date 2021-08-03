@@ -23,12 +23,14 @@
         <entry key="app/src/main/res/drawable/elite_sdk_custom_radio_button.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_dotted_divider.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_downside_rounded_corner.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/elite_sdk_flight_checkbox_selector.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_bag.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_group.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_vertical.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/flight_checkbox_selector.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_adult.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_booked.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_check.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_children.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_date.xml" value="0.2041025641025641" />
@@ -48,8 +50,10 @@
         <entry key="app/src/main/res/drawable/ic_elite_sdk_time.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_ways.xml" value="0.19907407407407407" />
         <entry key="app/src/main/res/drawable/ic_filter_tick.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_ladies.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_passenger.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_remove.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_selected.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/loader.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/shadow_gradient.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.1921875" />
