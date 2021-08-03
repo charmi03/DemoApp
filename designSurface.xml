@@ -86,6 +86,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_search_city.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/elite_sdk_row_bus_detail_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_row_departureview_flight.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_dropdown.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_filter_airline.xml" value="0.1921875" />
