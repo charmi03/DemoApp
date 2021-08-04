@@ -20,6 +20,7 @@
         <entry key="app/src/main/res/drawable/discount_rounded_corner.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/elite_sdk_actionbar_logo.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_bg_rectangle.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/elite_sdk_custom_checkbox.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/elite_sdk_custom_radio_button.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_dotted_divider.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_downside_rounded_corner.xml" value="0.20729166666666668" />
@@ -27,6 +28,8 @@
         <entry key="app/src/main/res/drawable/elite_sdk_ic_bag.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_group.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_vertical.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/elite_sdk_movie_booked_icon.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/elite_sdk_movie_selected_icon.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_selector_capsule_shape.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/flight_checkbox_selector.xml" value="0.20729166666666668" />
@@ -45,6 +48,8 @@
         <entry key="app/src/main/res/drawable/ic_elite_sdk_infants.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_home.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_menu_infletor.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_movie_ticket.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_movies.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_no_airline.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_overview.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_reverse.xml" value="0.1" />
@@ -80,6 +85,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_dialog_calendar_view.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_class_list.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_passenger_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/elite_sdk_dialog_ticket_select.xml" value="0.1648148148148148" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_redeem_history_layout.xml" value="0.33" />
