@@ -82,6 +82,7 @@
         <entry key="app/src/main/res/layout/cardview_add_hotel_room.xml" value="0.16018518518518518" />
         <entry key="app/src/main/res/layout/cardview_hotel_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/common_toolbar.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_offer_location_list_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_add_user_details_popup.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_custom_spinner_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_calendar_view.xml" value="0.1" />
@@ -118,8 +119,11 @@
         <entry key="app/src/main/res/layout/fragment_account_number_tab.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/fragment_bus_home.xml" value="0.17685185185185184" />
         <entry key="app/src/main/res/layout/fragment_egv_detail.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_affiliate_bottomsheet.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_collected_offer.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_itinerary.xml" value="0.3626609442060086" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_offer_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_product_category.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_traveller_edit.xml" value="0.19228764981761334" />
         <entry key="app/src/main/res/layout/fragment_flight_cancel_order.xml" value="0.1" />
@@ -147,8 +151,11 @@
         <entry key="app/src/main/res/layout/hotel_select_room_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_select_room_row.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_toolbar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_elite_category_grid.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/item_elite_category_linear.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/layout_bottom_sheet_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_empty.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/placeholder_home_offers.xml" value="0.1" />
         <entry key="app/src/main/res/layout/row_all_flights.xml" value="0.1" />
         <entry key="app/src/main/res/layout/row_cancel_flight_booking.xml" value="0.1" />
         <entry key="app/src/main/res/layout/row_departureview_flight.xml" value="0.1" />
@@ -159,8 +166,11 @@
         <entry key="app/src/main/res/layout/row_shimmer_city_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_shimmer_flight_listing.xml" value="0.1" />
         <entry key="app/src/main/res/layout/row_view_route_info.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/shimmer_elite_category_horizontal.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_hotel_destination_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/shimmer_hotel_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/view_collected_offer_grid.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/view_collected_offer_linear.xml" value="0.1" />
         <entry key="app/src/main/res/menu/edit_option.xml" value="0.1921875" />
         <entry key="app/src/main/res/menu/fragment_elite_sdk_traveller_edit.xml" value="1.0" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.1921875" />
@@ -178,6 +188,7 @@
         <entry key="app/src/union/res/layout/activity_splash.xml" value="0.18425925925925926" />
         <entry key="app/src/union/res/layout/elite_sdk_item_redemption_layout.xml" value="0.1921875" />
         <entry key="app/src/union/res/layout/elite_sdk_row_shimmer_city_layout.xml" value="0.1921875" />
+        <entry key="app/src/union/res/layout/fragment_elite_sdk_cc_bill_payment.xml" value="0.1921875" />
       </map>
     </option>
   </component>
