@@ -84,6 +84,7 @@
         <entry key="app/src/main/res/layout/common_toolbar.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_offer_location_list_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_add_user_details_popup.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_confirm_detail_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_custom_spinner_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_calendar_view.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_class_list.xml" value="0.1921875" />
@@ -186,6 +187,7 @@
         <entry key="app/src/union/res/drawable/ic_elite_sdk_time.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/drawable/ic_launcher.xml" value="0.20729166666666668" />
         <entry key="app/src/union/res/layout/activity_splash.xml" value="0.18425925925925926" />
+        <entry key="app/src/union/res/layout/elite_sdk_confirm_detail_layout.xml" value="0.15925925925925927" />
         <entry key="app/src/union/res/layout/elite_sdk_item_redemption_layout.xml" value="0.1921875" />
         <entry key="app/src/union/res/layout/elite_sdk_row_shimmer_city_layout.xml" value="0.1921875" />
         <entry key="app/src/union/res/layout/fragment_elite_sdk_cc_bill_payment.xml" value="0.1921875" />
