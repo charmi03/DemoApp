@@ -31,6 +31,7 @@
         <entry key="app/src/main/res/drawable/elite_sdk_ic_bag.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_group.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_ic_vertical.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/elite_sdk_loader.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/elite_sdk_movie_booked_icon.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/elite_sdk_movie_selected_icon.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
@@ -128,6 +129,7 @@
         <entry key="app/src/main/res/layout/fragment_elite_sdk_address_detail.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_affiliate_bottomsheet.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_collected_offer.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_earned_home.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_itinerary.xml" value="0.3626609442060086" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_offer_home.xml" value="0.1" />
