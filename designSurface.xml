@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/bob/res/drawable/elite_sdk_actionbar_logo.xml" value="0.1817351598173516" />
         <entry key="app/src/bob/res/drawable/ic_elite_sdk_charity.xml" value="0.19722222222222222" />
         <entry key="app/src/bob/res/drawable/ic_elite_sdk_egv.xml" value="0.19722222222222222" />
         <entry key="app/src/bob/res/layout/elite_sdk_item_redemption_layout.xml" value="0.1921875" />
