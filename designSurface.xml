@@ -93,6 +93,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_redeem_history_layout.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/elite_sdk_layout_bottom_sheet_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_search_city.xml" value="0.1" />
