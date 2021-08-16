@@ -72,6 +72,7 @@
         <entry key="app/src/main/res/drawable/ic_selected.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/loader.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/shadow_gradient.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/tab_underline.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_bus.xml" value="1.0" />
