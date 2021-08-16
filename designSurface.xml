@@ -150,8 +150,10 @@
         <entry key="app/src/main/res/layout/fragment_hotel_detail.xml" value="0.3132530120481928" />
         <entry key="app/src/main/res/layout/fragment_hotel_list.xml" value="1.0" />
         <entry key="app/src/main/res/layout/fragment_hotel_search.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_recharge_plan.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_review_flight.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.18923076923076923" />
+        <entry key="app/src/main/res/layout/fragment_view_recharge_plans.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_amenities.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_amenities_category.xml" value="0.1" />
         <entry key="app/src/main/res/layout/hotel_amenities_item.xml" value="0.1" />
