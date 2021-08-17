@@ -44,6 +44,7 @@
         <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_selector_capsule_shape.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/elite_sdk_tab_text_selector.xml" value="0.18425925925925926" />
+        <entry key="app/src/main/res/drawable/elite_sdk_voucher_selector.xml" value="0.15546875" />
         <entry key="app/src/main/res/drawable/flight_checkbox_selector.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_adult.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_booked.xml" value="0.1" />
