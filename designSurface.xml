@@ -40,6 +40,7 @@
         <entry key="app/src/main/res/drawable/elite_sdk_loader.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/elite_sdk_movie_booked_icon.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/elite_sdk_movie_selected_icon.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/elite_sdk_redeem_tab_selector.xml" value="0.15546875" />
         <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_selector_capsule_shape.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/elite_sdk_tab_text_selector.xml" value="0.18425925925925926" />
@@ -99,6 +100,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_add_user_details_popup.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_confirm_detail_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_custom_homepage_tab.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/elite_sdk_custom_redeem_tab.xml" value="0.144140625" />
         <entry key="app/src/main/res/layout/elite_sdk_custom_spinner_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_calendar_view.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_class_list.xml" value="0.1921875" />
