@@ -145,6 +145,7 @@
         <entry key="app/src/main/res/layout/fragment_elite_sdk_address_detail.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_affiliate_bottomsheet.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_collected_offer.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_confirmation_dialog.xml" value="0.1684931506849315" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_earned_home.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_giftcard_home.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
