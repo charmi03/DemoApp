@@ -16,6 +16,7 @@
         <entry key="app/src/main/res/drawable/all_flights_gradient.xml" value="0.19907407407407407" />
         <entry key="app/src/main/res/drawable/bg_editext_round_shape.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/bg_elite_sdk_circular_text.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/bg_elite_sdk_dialog_button.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/bg_elite_sdk_edittext_traveller_details.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/bg_elite_sdk_round_corner_text.xml" value="0.15546875" />
         <entry key="app/src/main/res/drawable/bg_elite_sdk_spinner_rounded_border.xml" value="0.18425925925925926" />
@@ -109,6 +110,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_dialog_exclusive_voucher_detail.xml" value="0.1684931506849315" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_passenger_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_ticket_select.xml" value="0.1648148148148148" />
+        <entry key="app/src/main/res/layout/elite_sdk_item_earned_layout.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_redeem_history_layout.xml" value="0.33" />
@@ -116,6 +118,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty_view.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_search_city.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/elite_sdk_placeholder_transaction_layout.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/elite_sdk_row_bus_detail_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_row_departureview_flight.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_row_dropdown.xml" value="0.1921875" />
@@ -146,6 +149,7 @@
         <entry key="app/src/main/res/layout/fragment_elite_sdk_affiliate_bottomsheet.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_collected_offer.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_confirmation_dialog.xml" value="0.1684931506849315" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_earned.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_earned_home.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_giftcard_home.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
@@ -202,6 +206,7 @@
         <entry key="app/src/main/res/layout/row_shimmer_flight_listing.xml" value="0.1" />
         <entry key="app/src/main/res/layout/row_view_route_info.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/shimmer_elite_category_horizontal.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/shimmer_elite_sdk_earned_fragment.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/shimmer_hotel_destination_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/shimmer_hotel_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_collected_offer_grid.xml" value="0.1921875" />
