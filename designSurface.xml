@@ -55,6 +55,7 @@
         <entry key="app/src/main/res/drawable/ic_elite_sdk_arrow_right.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_backward_dotted.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_class.xml" value="0.19907407407407407" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_close.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_coins_large.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_coins_small.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_depart.xml" value="0.20729166666666668" />
@@ -105,6 +106,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_custom_spinner_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_calendar_view.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_class_list.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_dialog_exclusive_voucher_detail.xml" value="0.1684931506849315" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_passenger_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_dialog_ticket_select.xml" value="0.1648148148148148" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
