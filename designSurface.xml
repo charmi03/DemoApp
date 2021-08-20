@@ -45,6 +45,7 @@
         <entry key="app/src/main/res/drawable/elite_sdk_redeem_tab_selector.xml" value="0.15546875" />
         <entry key="app/src/main/res/drawable/elite_sdk_selected_capsule_shape.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/elite_sdk_selector_capsule_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/elite_sdk_tab_selector.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/elite_sdk_tab_text_selector.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/elite_sdk_voucher_selector.xml" value="0.15546875" />
         <entry key="app/src/main/res/drawable/flight_checkbox_selector.xml" value="0.20729166666666668" />
@@ -114,6 +115,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_item_earned_layout.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_item_exclusive_voucher_linear.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_item_new_egv_layout.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/elite_sdk_item_redeem_history_layout.xml" value="0.33" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_bottom_sheet_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/elite_sdk_layout_empty.xml" value="0.1921875" />
@@ -148,10 +150,13 @@
         <entry key="app/src/main/res/layout/fragment_egv_detail.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_address_detail.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_affiliate_bottomsheet.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_buy_voucher.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_buy_voucher_new.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_collected_offer.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_confirmation_dialog.xml" value="0.1684931506849315" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_earned.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_earned_home.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_evoucher.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_giftcard_home.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_itinerary.xml" value="0.3626609442060086" />
