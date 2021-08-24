@@ -145,6 +145,8 @@
         <entry key="app/src/main/res/layout/elite_sdk_traveller_details_spinner_layout.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/elite_sdk_tutorial_dialog.xml" value="0.25" />
         <entry key="app/src/main/res/layout/elite_sdk_virtual_tour_dialog.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/elite_sdk_voucher_detail_item_description.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_voucher_detail_item_header.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/flight_toolbaar_custom_view.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_account_number_tab.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/fragment_bus_home.xml" value="0.17685185185185184" />
