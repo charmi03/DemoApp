@@ -86,6 +86,7 @@
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_bus.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/activity_elite_sdk_exclusive_vouchers.xml" value="0.144140625" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_gift_card.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_elite_sdk_merchandise.xml" value="0.1921875" />
