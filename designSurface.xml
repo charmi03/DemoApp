@@ -7,7 +7,7 @@
         <entry key="app/src/bob/res/drawable/ic_elite_sdk_charity.xml" value="0.19722222222222222" />
         <entry key="app/src/bob/res/drawable/ic_elite_sdk_egv.xml" value="0.19722222222222222" />
         <entry key="app/src/bob/res/drawable/ic_elite_sdk_virtual_tour_coins.xml" value="0.18425925925925926" />
-        <entry key="app/src/bob/res/drawable/ic_elite_sdk_virtual_tour_points.xml" value="0.18425925925925926" />
+        <entry key="app/src/bob/res/drawable/ic_elite_sdk_virtual_tour_points.xml" value="0.20729166666666668" />
         <entry key="app/src/bob/res/layout/elite_sdk_item_redemption_layout.xml" value="0.1921875" />
         <entry key="app/src/bob/res/layout/fragment_elite_sdk_dashboard.xml" value="0.1921875" />
         <entry key="app/src/boi/res/drawable/elite_sdk_actionbar_logo.xml" value="0.20729166666666668" />
@@ -73,6 +73,7 @@
         <entry key="app/src/main/res/drawable/ic_elite_sdk_overview.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_reverse.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_time.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable/ic_elite_sdk_warning.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/ic_elite_sdk_ways.xml" value="0.19907407407407407" />
         <entry key="app/src/main/res/drawable/ic_filter_tick.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_ladies.xml" value="0.20729166666666668" />
@@ -146,7 +147,7 @@
         <entry key="app/src/main/res/layout/elite_sdk_tutorial_dialog.xml" value="0.25" />
         <entry key="app/src/main/res/layout/elite_sdk_virtual_tour_dialog.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/elite_sdk_voucher_detail_item_description.xml" value="0.1921875" />
-        <entry key="app/src/main/res/layout/elite_sdk_voucher_detail_item_header.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/elite_sdk_voucher_detail_item_header.xml" value="0.22" />
         <entry key="app/src/main/res/layout/flight_toolbaar_custom_view.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_account_number_tab.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/fragment_bus_home.xml" value="0.17685185185185184" />
@@ -160,6 +161,7 @@
         <entry key="app/src/main/res/layout/fragment_elite_sdk_earned.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_earned_home.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_evoucher.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_exclusive_voucher_details.xml" value="0.2" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_giftcard_home.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_home.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_itinerary.xml" value="0.3626609442060086" />
@@ -203,6 +205,7 @@
         <entry key="app/src/main/res/layout/hotel_toolbar.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_elite_category_grid.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/item_elite_category_linear.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/item_product_details_compare_buy.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/layout_bottom_sheet_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_empty.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/placeholder_home_offers.xml" value="0.1" />
