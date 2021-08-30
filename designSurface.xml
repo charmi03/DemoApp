@@ -212,6 +212,7 @@
         <entry key="app/src/main/res/layout/layout_bottom_sheet_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_empty.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/placeholder_home_offers.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/progress_bar.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_all_flights.xml" value="0.1" />
         <entry key="app/src/main/res/layout/row_cancel_flight_booking.xml" value="0.1" />
         <entry key="app/src/main/res/layout/row_departureview_flight.xml" value="0.1" />
