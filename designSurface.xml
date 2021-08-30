@@ -226,6 +226,7 @@
         <entry key="app/src/main/res/layout/shimmer_elite_sdk_earned_fragment.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/shimmer_elite_sdk_exclusive_products_home.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/shimmer_elite_sdk_exclusive_voucher.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/shimmer_elite_sdk_profile_view.xml" value="0.144140625" />
         <entry key="app/src/main/res/layout/shimmer_hotel_destination_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/shimmer_hotel_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_collected_offer_grid.xml" value="0.1921875" />
