@@ -12,6 +12,7 @@
         <entry key="app/src/bob/res/layout/fragment_elite_sdk_dashboard.xml" value="0.1921875" />
         <entry key="app/src/boi/res/drawable/elite_sdk_actionbar_logo.xml" value="0.20729166666666668" />
         <entry key="app/src/boistar/res/drawable/actionbar_logo.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/drawable-v24/rounded_corner_dialog.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/about_us_selector.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/all_flights_gradient.xml" value="0.19907407407407407" />
         <entry key="app/src/main/res/drawable/bg_editext_round_shape.xml" value="0.2041025641025641" />
@@ -24,6 +25,7 @@
         <entry key="app/src/main/res/drawable/bg_elite_sdk_travellers_name.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/bg_flight_spinner.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/bg_spinner.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_spinner_rounded_border.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/button_background.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/discount_rounded_corner.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/elite_sdk_account_selector.xml" value="0.18425925925925926" />
@@ -81,6 +83,7 @@
         <entry key="app/src/main/res/drawable/ic_remove.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/ic_selected.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/drawable/loader.xml" value="0.2041025641025641" />
+        <entry key="app/src/main/res/drawable/rounded_corner_dialog.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/shadow_gradient.xml" value="0.2041025641025641" />
         <entry key="app/src/main/res/drawable/tab_underline.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.1921875" />
@@ -211,6 +214,7 @@
         <entry key="app/src/main/res/layout/item_product_details_compare_buy.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/layout_bottom_sheet_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_empty.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/no_connection_fragment.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/placeholder_home_offers.xml" value="0.1" />
         <entry key="app/src/main/res/layout/progress_bar.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/row_all_flights.xml" value="0.1" />
