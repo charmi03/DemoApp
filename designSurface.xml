@@ -153,6 +153,7 @@
         <entry key="app/src/main/res/layout/fragment_account_number_tab.xml" value="0.18923076923076923" />
         <entry key="app/src/main/res/layout/fragment_bus_home.xml" value="0.17685185185185184" />
         <entry key="app/src/main/res/layout/fragment_egv_detail.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/fragment_elite_sdk_account.xml" value="0.144140625" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_address_detail.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_affiliate_bottomsheet.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/fragment_elite_sdk_buy_voucher.xml" value="0.17083333333333334" />
